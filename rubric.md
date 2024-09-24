@@ -30,9 +30,9 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 3 (3 pts)
 
-**PART** 1 pt: Makes all appropriate mirror replacements
+**YES** 1 pt: Makes all appropriate mirror replacements
 
-_____ 1 pt: Stores transcript of the conversation in an array
+**PART**  1 pt: Stores transcript of the conversation in an array
 
 **YES** 1 pt: Prints transcript when terminating
 
@@ -52,9 +52,9 @@ _____ (Kudos!) Handles you --> me/I dilemma
 
 **YES** 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+**YES** 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      _____ Classes & class members all have Javadoc header comments
+      **YES** Classes & class members all have Javadoc header comments
 
       **YES** Clear and consistent indentation of bracketed sections
 
@@ -66,4 +66,4 @@ _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
 **YES** 1 pt: All required files included with submission (including completed checklist file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment
+**YES** 1 pt: `reflection.md` contains your reflection on the assignment
